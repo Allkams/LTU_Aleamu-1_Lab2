@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MyThirdPerson-8553.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UnrealEngineProjects\Lab2\MyThirdPerson\Intermediate\Build\Win64\MyThirdPersonEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\UnrealEngineProjects\Lab2\MyThirdPerson\Intermediate\Build\Win64\UE4Editor\Development\MyThirdPerson\MyThirdPerson.cpp.obj"
+"D:\UnrealEngineProjects\Lab2\MyThirdPerson\Intermediate\Build\Win64\UE4Editor\Development\MyThirdPerson\MyThirdPersonChar.cpp.obj"
+"D:\UnrealEngineProjects\Lab2\MyThirdPerson\Intermediate\Build\Win64\UE4Editor\Development\MyThirdPerson\MyThirdPersonGameModeBase.cpp.obj"
+"D:\UnrealEngineProjects\Lab2\MyThirdPerson\Intermediate\Build\Win64\UE4Editor\Development\MyThirdPerson\MyThirdPerson.init.gen.cpp.obj"
+"D:\UnrealEngineProjects\Lab2\MyThirdPerson\Intermediate\Build\Win64\UE4Editor\Development\MyThirdPerson\MyThirdPersonChar.gen.cpp.obj"
+"D:\UnrealEngineProjects\Lab2\MyThirdPerson\Intermediate\Build\Win64\UE4Editor\Development\MyThirdPerson\MyThirdPersonGameModeBase.gen.cpp.obj"
+"D:\UnrealEngineProjects\Lab2\MyThirdPerson\Intermediate\Build\Win64\UE4Editor\Development\MyThirdPerson\Default.rc2.res"
+/OUT:"D:\UnrealEngineProjects\Lab2\MyThirdPerson\Intermediate\Build\Win64\UE4Editor\Development\MyThirdPerson\UE4Editor-MyThirdPerson-8553.lib"

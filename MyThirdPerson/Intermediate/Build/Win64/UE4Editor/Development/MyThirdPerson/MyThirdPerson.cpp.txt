@@ -1,0 +1,2 @@
+D:\UnrealEngineProjects\Lab2\MyThirdPerson\Intermediate\Build\Win64\UE4Editor\Development\MyThirdPerson\Definitions.MyThirdPerson.h
+D:\UnrealEngineProjects\Lab2\MyThirdPerson\Source\MyThirdPerson\MyThirdPerson.h

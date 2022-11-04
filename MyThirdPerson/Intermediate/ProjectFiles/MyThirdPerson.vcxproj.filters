@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MyThirdPerson.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{A9EB9D38-CC46-4C06-A891-BFB76860FB54}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MyThirdPerson.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MyThirdPersonEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{E1C43D87-3857-4BA9-940E-2A2E9B6AAA2C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MyThirdPerson">
+      <UniqueIdentifier>{A6A8B709-8B68-4795-83C3-68E99B322618}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MyThirdPerson\MyThirdPerson.Build.cs">
+      <Filter>Source\MyThirdPerson</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MyThirdPerson\MyThirdPerson.cpp">
+      <Filter>Source\MyThirdPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyThirdPerson\MyThirdPerson.h">
+      <Filter>Source\MyThirdPerson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyThirdPerson\MyThirdPersonChar.cpp">
+      <Filter>Source\MyThirdPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyThirdPerson\MyThirdPersonChar.h">
+      <Filter>Source\MyThirdPerson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MyThirdPerson\MyThirdPersonGameModeBase.cpp">
+      <Filter>Source\MyThirdPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MyThirdPerson\MyThirdPersonGameModeBase.h">
+      <Filter>Source\MyThirdPerson</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

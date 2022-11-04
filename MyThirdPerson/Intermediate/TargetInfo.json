@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MyThirdPerson",
+			"Path": "D:\\UnrealEngineProjects\\Lab2\\MyThirdPerson\\Source\\MyThirdPerson.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MyThirdPersonEditor",
+			"Path": "D:\\UnrealEngineProjects\\Lab2\\MyThirdPerson\\Source\\MyThirdPersonEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.27",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Aleamu1_2_1_V1",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
